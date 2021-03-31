@@ -1,0 +1,35 @@
+'file: seitenbaum.style.puml
+
+<style>
+' this time, scoping to wbsDiagram
+wbsDiagram {
+    Linecolor black
+   BackgroundColor white
+   .Version {
+        Linecolor Black
+   }
+   .HauptSeite {
+       MinimumWidth 300
+       Linecolor black
+       BackgroundColor LightGreen
+   }
+   .Seite {
+       MinimumWidth 300
+       Linecolor black
+       BackgroundColor LightGreen
+   }
+   .Funktion {
+        MinimumWidth 300
+        Linecolor black
+        BackgroundColor SkyBlue
+   }
+   .Beschriftung {
+        MinimumWidth 300
+        Linecolor black
+        BackgroundColor White
+   }
+   arrow {
+        LineColor grey
+   }
+}
+</style>
