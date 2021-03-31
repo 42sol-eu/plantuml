@@ -21,7 +21,7 @@ wbsDiagram {
    .Funktion {
         MinimumWidth 300
         Linecolor black
-        BackgroundColor SkyBlue
+        BackgroundColor Salmon
    }
    .Beschriftung {
         MinimumWidth 300
